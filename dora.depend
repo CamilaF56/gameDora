@@ -1,0 +1,5216 @@
+# depslib dependency file v1.0
+1661018716 source:c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\board.cpp
+	<cctype>
+	<cstring>
+	"Board.hpp"
+	"Piece.hpp"
+	"Common.hpp"
+	"SAXA.hpp"
+	"tinycthread.h"
+
+1661015092 c:\users\walte\onedrive\햞ea de trabalho\xuxa\include\board.hpp
+	"raylib.h"
+	"Common.hpp"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\include\common.hpp
+	<cstdint>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\include\piece.hpp
+
+1660866830 c:\users\walte\onedrive\햞ea de trabalho\xuxa\include\saxa.hpp
+	<cctype>
+	<iostream>
+	<string>
+	"Board.hpp"
+	"Piece.hpp"
+	"Evaluate.hpp"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\tinycthread\tinycthread.h
+	<time.h>
+	<pthread.h>
+	<windows.h>
+
+1661017749 source:c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\main.cpp
+	"raylib.h"
+	"Board.hpp"
+	<iostream>
+
+1660005332 source:c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\rcore.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	"raymath.h"
+	"rgestures.h"
+	"rcamera.h"
+	"external/msf_gif.h"
+	"external/sinfl.h"
+	"external/sdefl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<sys/stat.h>
+	"external/dirent.h"
+	<dirent.h>
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	"GLFW/glfw3.h"
+	"GLFW/glfw3native.h"
+	<sys/time.h>
+	"GLFW/glfw3native.h"
+	<unistd.h>
+	"GLFW/glfw3native.h"
+	<android/window.h>
+	<android_native_app_glue.h>
+	<EGL/egl.h>
+	<fcntl.h>
+	<unistd.h>
+	<termios.h>
+	<pthread.h>
+	<dirent.h>
+	<sys/ioctl.h>
+	<linux/kd.h>
+	<linux/input.h>
+	<linux/joystick.h>
+	"bcm_host.h"
+	<gbm.h>
+	<xf86drm.h>
+	<xf86drmMode.h>
+	"EGL/egl.h"
+	"EGL/eglext.h"
+	"GLFW/glfw3.h"
+	<sys/time.h>
+	<emscripten/emscripten.h>
+	<emscripten/html5.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\config.h
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\utils.h
+	<stdio.h>
+	<android/asset_manager.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\rlgl.h
+	<stdbool.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	"external/glad.h"
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glad.h
+	<winapifamily.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\raymath.h
+	<math.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\rgestures.h
+	<stdbool.h>
+	<sys/time.h>
+	<time.h>
+	<math.h>
+	<mach/clock.h>
+	<mach/mach.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\rcamera.h
+	<math.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\msf_gif.h
+	"msf_gif.h"
+	<stdint.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<intrin.h>
+	<emmintrin.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\sinfl.h
+	<string.h>
+	<assert.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\sdefl.h
+	<assert.h>
+	<string.h>
+	<limits.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\dirent.h
+	<io.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\include\glfw\glfw3native.h
+	<ApplicationServices/ApplicationServices.h>
+	<X11/Xlib.h>
+	<X11/extensions/Xrandr.h>
+	<wayland-client.h>
+	<GL/glx.h>
+	<EGL/egl.h>
+	<GL/osmesa.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\include\android_native_app_glue.h
+	<poll.h>
+	<pthread.h>
+	<sched.h>
+	<android/configuration.h>
+	<android/looper.h>
+	<android/native_activity.h>
+
+1660005332 source:c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\rglfw.c
+	"external/glfw/src/context.c"
+	"external/glfw/src/init.c"
+	"external/glfw/src/input.c"
+	"external/glfw/src/monitor.c"
+	"external/glfw/src/vulkan.c"
+	"external/glfw/src/window.c"
+	"external/glfw/src/win32_init.c"
+	"external/glfw/src/win32_joystick.c"
+	"external/glfw/src/win32_monitor.c"
+	"external/glfw/src/win32_time.c"
+	"external/glfw/src/win32_thread.c"
+	"external/glfw/src/win32_window.c"
+	"external/glfw/src/wgl_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/wl_init.c"
+	"external/glfw/src/wl_monitor.c"
+	"external/glfw/src/wl_window.c"
+	"external/glfw/src/wayland-pointer-constraints-unstable-v1-client-protocol.c"
+	"external/glfw/src/wayland-relative-pointer-unstable-v1-client-protocol.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/linux_joystick.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/null_joystick.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/cocoa_init.m"
+	"external/glfw/src/cocoa_joystick.m"
+	"external/glfw/src/cocoa_monitor.m"
+	"external/glfw/src/cocoa_window.m"
+	"external/glfw/src/cocoa_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/nsgl_context.m"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\context.c
+	"internal.h"
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\internal.h
+	"glfw_config.h"
+	"../include/GLFW/glfw3.h"
+	"cocoa_platform.h"
+	"win32_platform.h"
+	"x11_platform.h"
+	"wl_platform.h"
+	"null_platform.h"
+	"egl_context.h"
+	"osmesa_context.h"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\cocoa_platform.h
+	<stdint.h>
+	<dlfcn.h>
+	<Carbon/Carbon.h>
+	"posix_thread.h"
+	"cocoa_joystick.h"
+	"nsgl_context.h"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\posix_thread.h
+	<pthread.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\cocoa_joystick.h
+	<IOKit/IOKitLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/hid/IOHIDKeys.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\nsgl_context.h
+	<stdatomic.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\win32_platform.h
+	<wctype.h>
+	<windows.h>
+	<dinput.h>
+	<xinput.h>
+	<dbt.h>
+	<dwmapi.h>
+	"win32_joystick.h"
+	"wgl_context.h"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\deps\mingw\dinput.h
+	<objbase.h>
+	<_mingw_dxhelper.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\deps\mingw\_mingw_dxhelper.h
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\deps\mingw\xinput.h
+	<windef.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\win32_joystick.h
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\wgl_context.h
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\x11_platform.h
+	<unistd.h>
+	<signal.h>
+	<stdint.h>
+	<dlfcn.h>
+	<X11/Xlib.h>
+	<X11/keysym.h>
+	<X11/Xatom.h>
+	<X11/Xresource.h>
+	<X11/Xcursor/Xcursor.h>
+	<X11/extensions/Xrandr.h>
+	<X11/XKBlib.h>
+	<X11/extensions/Xinerama.h>
+	<X11/extensions/XInput2.h>
+	<X11/extensions/shape.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"xkb_unicode.h"
+	"glx_context.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\posix_time.h
+	<stdint.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\xkb_unicode.h
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\glx_context.h
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\linux_joystick.h
+	<linux/input.h>
+	<linux/limits.h>
+	<regex.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\null_joystick.h
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\wl_platform.h
+	<wayland-client.h>
+	<xkbcommon/xkbcommon.h>
+	<xkbcommon/xkbcommon-compose.h>
+	<dlfcn.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+	"xkb_unicode.h"
+	"wayland-xdg-shell-client-protocol.h"
+	"wayland-xdg-decoration-client-protocol.h"
+	"wayland-viewporter-client-protocol.h"
+	"wayland-relative-pointer-unstable-v1-client-protocol.h"
+	"wayland-pointer-constraints-unstable-v1-client-protocol.h"
+	"wayland-idle-inhibit-unstable-v1-client-protocol.h"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\null_platform.h
+	<dlfcn.h>
+	"posix_time.h"
+	"posix_thread.h"
+	"null_joystick.h"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\egl_context.h
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\osmesa_context.h
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\init.c
+	"internal.h"
+	"mappings.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<assert.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\mappings.h
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\input.c
+	"internal.h"
+	<assert.h>
+	<float.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\monitor.c
+	"internal.h"
+	<assert.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\vulkan.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\window.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+	<float.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\win32_init.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\win32_joystick.c
+	"internal.h"
+	<stdio.h>
+	<math.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\win32_monitor.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<malloc.h>
+	<wchar.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\win32_time.c
+	"internal.h"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\win32_thread.c
+	"internal.h"
+	<assert.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\win32_window.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<windowsx.h>
+	<shellapi.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\wgl_context.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+	<assert.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\egl_context.c
+	"internal.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\osmesa_context.c
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"internal.h"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\wl_init.c
+	"internal.h"
+	<assert.h>
+	<errno.h>
+	<limits.h>
+	<linux/input.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<unistd.h>
+	<time.h>
+	<wayland-client.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\wl_monitor.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\wl_window.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<poll.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\x11_init.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<locale.h>
+	<unistd.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\x11_monitor.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\x11_window.c
+	"internal.h"
+	<X11/cursorfont.h>
+	<X11/Xmd.h>
+	<sys/select.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<errno.h>
+	<assert.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\glx_context.c
+	"internal.h"
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\linux_joystick.c
+	"internal.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/inotify.h>
+	<fcntl.h>
+	<errno.h>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\posix_thread.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\posix_time.c
+	"internal.h"
+	<unistd.h>
+	<sys/time.h>
+	<time.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\xkb_unicode.c
+	"internal.h"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\null_joystick.c
+	"internal.h"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\cocoa_init.m
+	"internal.h"
+	<sys/param.h>
+	<crt_externs.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\cocoa_joystick.m
+	"internal.h"
+	<unistd.h>
+	<ctype.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_error.h>
+	<CoreFoundation/CoreFoundation.h>
+	<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\cocoa_monitor.m
+	"internal.h"
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+	<IOKit/graphics/IOGraphicsLib.h>
+	<ApplicationServices/ApplicationServices.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\cocoa_window.m
+	"internal.h"
+	<float.h>
+	<string.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\cocoa_time.c
+	"internal.h"
+	<mach/mach_time.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\glfw\src\nsgl_context.m
+	"internal.h"
+	<unistd.h>
+	<math.h>
+
+1660005332 source:c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\rshapes.c
+	"raylib.h"
+	"config.h"
+	"rlgl.h"
+	<math.h>
+	<float.h>
+
+1660005332 source:c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\rtext.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	"external/stb_rect_pack.h"
+	"external/stb_truetype.h"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\stb_rect_pack.h
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1660005332 source:c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\rtextures.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	"external/stb_image.h"
+	"external/stb_image_write.h"
+	"external/stb_image_resize.h"
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1660005332 c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\external\stb_image_resize.h
+	"stb_image_resize.h"
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1660005332 source:c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\raylib\utils.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<errno.h>
+	<android/log.h>
+	<android/asset_manager.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1660005332 source:c:\users\walte\onedrive\햞ea de trabalho\xuxa\src\tinycthread\tinycthread.c
+	"tinycthread.h"
+	<stdlib.h>
+	<signal.h>
+	<sched.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<process.h>
+	<sys/timeb.h>
+
+1660866830 c:\users\walte\onedrive\햞ea de trabalho\xuxa\include\evaluate.hpp
+	<math.h>
+
+1661017750 source:c:\users\89397000s\downloads\xuxa\xuxa\src\main.cpp
+	"raylib.h"
+	"Board.hpp"
+	<iostream>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1661015094 c:\users\89397000s\downloads\xuxa\xuxa\include\board.hpp
+	"raylib.h"
+	"Common.hpp"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\include\common.hpp
+	<cstdint>
+
+1660005332 source:c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\rcore.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	"raymath.h"
+	"rgestures.h"
+	"rcamera.h"
+	"external/msf_gif.h"
+	"external/sinfl.h"
+	"external/sdefl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<sys/stat.h>
+	"external/dirent.h"
+	<dirent.h>
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	"GLFW/glfw3.h"
+	"GLFW/glfw3native.h"
+	<sys/time.h>
+	"GLFW/glfw3native.h"
+	<unistd.h>
+	"GLFW/glfw3native.h"
+	<android/window.h>
+	<android_native_app_glue.h>
+	<EGL/egl.h>
+	<fcntl.h>
+	<unistd.h>
+	<termios.h>
+	<pthread.h>
+	<dirent.h>
+	<sys/ioctl.h>
+	<linux/kd.h>
+	<linux/input.h>
+	<linux/joystick.h>
+	"bcm_host.h"
+	<gbm.h>
+	<xf86drm.h>
+	<xf86drmMode.h>
+	"EGL/egl.h"
+	"EGL/eglext.h"
+	"GLFW/glfw3.h"
+	<sys/time.h>
+	<emscripten/emscripten.h>
+	<emscripten/html5.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\config.h
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\utils.h
+	<stdio.h>
+	<android/asset_manager.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\rlgl.h
+	<stdbool.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	"external/glad.h"
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glad.h
+	<winapifamily.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\raymath.h
+	<math.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\rgestures.h
+	<stdbool.h>
+	<sys/time.h>
+	<time.h>
+	<math.h>
+	<mach/clock.h>
+	<mach/mach.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\rcamera.h
+	<math.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\msf_gif.h
+	"msf_gif.h"
+	<stdint.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<intrin.h>
+	<emmintrin.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\sinfl.h
+	<string.h>
+	<assert.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\sdefl.h
+	<assert.h>
+	<string.h>
+	<limits.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\dirent.h
+	<io.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\include\glfw\glfw3native.h
+	<ApplicationServices/ApplicationServices.h>
+	<X11/Xlib.h>
+	<X11/extensions/Xrandr.h>
+	<wayland-client.h>
+	<GL/glx.h>
+	<EGL/egl.h>
+	<GL/osmesa.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\include\android_native_app_glue.h
+	<poll.h>
+	<pthread.h>
+	<sched.h>
+	<android/configuration.h>
+	<android/looper.h>
+	<android/native_activity.h>
+
+1660005332 source:c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\rglfw.c
+	"external/glfw/src/context.c"
+	"external/glfw/src/init.c"
+	"external/glfw/src/input.c"
+	"external/glfw/src/monitor.c"
+	"external/glfw/src/vulkan.c"
+	"external/glfw/src/window.c"
+	"external/glfw/src/win32_init.c"
+	"external/glfw/src/win32_joystick.c"
+	"external/glfw/src/win32_monitor.c"
+	"external/glfw/src/win32_time.c"
+	"external/glfw/src/win32_thread.c"
+	"external/glfw/src/win32_window.c"
+	"external/glfw/src/wgl_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/wl_init.c"
+	"external/glfw/src/wl_monitor.c"
+	"external/glfw/src/wl_window.c"
+	"external/glfw/src/wayland-pointer-constraints-unstable-v1-client-protocol.c"
+	"external/glfw/src/wayland-relative-pointer-unstable-v1-client-protocol.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/linux_joystick.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/null_joystick.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/cocoa_init.m"
+	"external/glfw/src/cocoa_joystick.m"
+	"external/glfw/src/cocoa_monitor.m"
+	"external/glfw/src/cocoa_window.m"
+	"external/glfw/src/cocoa_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/nsgl_context.m"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\context.c
+	"internal.h"
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\internal.h
+	"glfw_config.h"
+	"../include/GLFW/glfw3.h"
+	"cocoa_platform.h"
+	"win32_platform.h"
+	"x11_platform.h"
+	"wl_platform.h"
+	"null_platform.h"
+	"egl_context.h"
+	"osmesa_context.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\cocoa_platform.h
+	<stdint.h>
+	<dlfcn.h>
+	<Carbon/Carbon.h>
+	"posix_thread.h"
+	"cocoa_joystick.h"
+	"nsgl_context.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\posix_thread.h
+	<pthread.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\cocoa_joystick.h
+	<IOKit/IOKitLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/hid/IOHIDKeys.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\nsgl_context.h
+	<stdatomic.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\win32_platform.h
+	<wctype.h>
+	<windows.h>
+	<dinput.h>
+	<xinput.h>
+	<dbt.h>
+	<dwmapi.h>
+	"win32_joystick.h"
+	"wgl_context.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\deps\mingw\dinput.h
+	<objbase.h>
+	<_mingw_dxhelper.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\deps\mingw\_mingw_dxhelper.h
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\deps\mingw\xinput.h
+	<windef.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\win32_joystick.h
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\wgl_context.h
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\x11_platform.h
+	<unistd.h>
+	<signal.h>
+	<stdint.h>
+	<dlfcn.h>
+	<X11/Xlib.h>
+	<X11/keysym.h>
+	<X11/Xatom.h>
+	<X11/Xresource.h>
+	<X11/Xcursor/Xcursor.h>
+	<X11/extensions/Xrandr.h>
+	<X11/XKBlib.h>
+	<X11/extensions/Xinerama.h>
+	<X11/extensions/XInput2.h>
+	<X11/extensions/shape.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"xkb_unicode.h"
+	"glx_context.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\posix_time.h
+	<stdint.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\xkb_unicode.h
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\glx_context.h
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\linux_joystick.h
+	<linux/input.h>
+	<linux/limits.h>
+	<regex.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\null_joystick.h
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\wl_platform.h
+	<wayland-client.h>
+	<xkbcommon/xkbcommon.h>
+	<xkbcommon/xkbcommon-compose.h>
+	<dlfcn.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+	"xkb_unicode.h"
+	"wayland-xdg-shell-client-protocol.h"
+	"wayland-xdg-decoration-client-protocol.h"
+	"wayland-viewporter-client-protocol.h"
+	"wayland-relative-pointer-unstable-v1-client-protocol.h"
+	"wayland-pointer-constraints-unstable-v1-client-protocol.h"
+	"wayland-idle-inhibit-unstable-v1-client-protocol.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\null_platform.h
+	<dlfcn.h>
+	"posix_time.h"
+	"posix_thread.h"
+	"null_joystick.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\egl_context.h
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\osmesa_context.h
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\init.c
+	"internal.h"
+	"mappings.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<assert.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\mappings.h
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\input.c
+	"internal.h"
+	<assert.h>
+	<float.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\monitor.c
+	"internal.h"
+	<assert.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\vulkan.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\window.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+	<float.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\win32_init.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\win32_joystick.c
+	"internal.h"
+	<stdio.h>
+	<math.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\win32_monitor.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<malloc.h>
+	<wchar.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\win32_time.c
+	"internal.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\win32_thread.c
+	"internal.h"
+	<assert.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\win32_window.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<windowsx.h>
+	<shellapi.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\wgl_context.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+	<assert.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\egl_context.c
+	"internal.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\osmesa_context.c
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"internal.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\wl_init.c
+	"internal.h"
+	<assert.h>
+	<errno.h>
+	<limits.h>
+	<linux/input.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<unistd.h>
+	<time.h>
+	<wayland-client.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\wl_monitor.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\wl_window.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<poll.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\x11_init.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<locale.h>
+	<unistd.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\x11_monitor.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\x11_window.c
+	"internal.h"
+	<X11/cursorfont.h>
+	<X11/Xmd.h>
+	<sys/select.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<errno.h>
+	<assert.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\glx_context.c
+	"internal.h"
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\linux_joystick.c
+	"internal.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/inotify.h>
+	<fcntl.h>
+	<errno.h>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\posix_thread.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\posix_time.c
+	"internal.h"
+	<unistd.h>
+	<sys/time.h>
+	<time.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\xkb_unicode.c
+	"internal.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\null_joystick.c
+	"internal.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\cocoa_init.m
+	"internal.h"
+	<sys/param.h>
+	<crt_externs.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\cocoa_joystick.m
+	"internal.h"
+	<unistd.h>
+	<ctype.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_error.h>
+	<CoreFoundation/CoreFoundation.h>
+	<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\cocoa_monitor.m
+	"internal.h"
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+	<IOKit/graphics/IOGraphicsLib.h>
+	<ApplicationServices/ApplicationServices.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\cocoa_window.m
+	"internal.h"
+	<float.h>
+	<string.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\cocoa_time.c
+	"internal.h"
+	<mach/mach_time.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\glfw\src\nsgl_context.m
+	"internal.h"
+	<unistd.h>
+	<math.h>
+
+1660005332 source:c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\rshapes.c
+	"raylib.h"
+	"config.h"
+	"rlgl.h"
+	<math.h>
+	<float.h>
+
+1660005332 source:c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\rtext.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	"external/stb_rect_pack.h"
+	"external/stb_truetype.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\stb_rect_pack.h
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1660005332 source:c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\rtextures.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	"external/stb_image.h"
+	"external/stb_image_write.h"
+	"external/stb_image_resize.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\external\stb_image_resize.h
+	"stb_image_resize.h"
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1660005332 source:c:\users\89397000s\downloads\xuxa\xuxa\src\raylib\utils.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<errno.h>
+	<android/log.h>
+	<android/asset_manager.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1660005332 source:c:\users\89397000s\downloads\xuxa\xuxa\src\tinycthread\tinycthread.c
+	"tinycthread.h"
+	<stdlib.h>
+	<signal.h>
+	<sched.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<process.h>
+	<sys/timeb.h>
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\src\tinycthread\tinycthread.h
+	<time.h>
+	<pthread.h>
+	<windows.h>
+
+1661021757 source:c:\users\89397000s\downloads\xuxa\xuxa\src\board.cpp
+	<cctype>
+	<cstring>
+	"Board.hpp"
+	"Piece.hpp"
+	"Common.hpp"
+	"SAXA.hpp"
+	"tinycthread.h"
+
+1660005332 c:\users\89397000s\downloads\xuxa\xuxa\include\piece.hpp
+
+1660866832 c:\users\89397000s\downloads\xuxa\xuxa\include\saxa.hpp
+	<cctype>
+	<iostream>
+	<string>
+	"Board.hpp"
+	"Piece.hpp"
+	"Evaluate.hpp"
+
+1660866832 c:\users\89397000s\downloads\xuxa\xuxa\include\evaluate.hpp
+	<math.h>
+
+1661050929 source:c:\users\55799\desktop\camila\xuxa-6\xuxa\src\board.cpp
+	<cctype>
+	<cstring>
+	"Board.hpp"
+	"Piece.hpp"
+	"Common.hpp"
+	"SAXA.hpp"
+	"tinycthread.h"
+
+1661050146 c:\users\55799\desktop\camila\xuxa-6\xuxa\include\board.hpp
+	"raylib.h"
+	"Common.hpp"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\include\common.hpp
+	<cstdint>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\include\piece.hpp
+
+1660866832 c:\users\55799\desktop\camila\xuxa-6\xuxa\include\saxa.hpp
+	<cctype>
+	<iostream>
+	<string>
+	"Board.hpp"
+	"Piece.hpp"
+	"Evaluate.hpp"
+
+1660866832 c:\users\55799\desktop\camila\xuxa-6\xuxa\include\evaluate.hpp
+	<math.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\tinycthread\tinycthread.h
+	<time.h>
+	<pthread.h>
+	<windows.h>
+
+1661050271 source:c:\users\55799\desktop\camila\xuxa-6\xuxa\src\main.cpp
+	"raylib.h"
+	"Board.hpp"
+	<iostream>
+
+1660005332 source:c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\rcore.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	"raymath.h"
+	"rgestures.h"
+	"rcamera.h"
+	"external/msf_gif.h"
+	"external/sinfl.h"
+	"external/sdefl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<sys/stat.h>
+	"external/dirent.h"
+	<dirent.h>
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	"GLFW/glfw3.h"
+	"GLFW/glfw3native.h"
+	<sys/time.h>
+	"GLFW/glfw3native.h"
+	<unistd.h>
+	"GLFW/glfw3native.h"
+	<android/window.h>
+	<android_native_app_glue.h>
+	<EGL/egl.h>
+	<fcntl.h>
+	<unistd.h>
+	<termios.h>
+	<pthread.h>
+	<dirent.h>
+	<sys/ioctl.h>
+	<linux/kd.h>
+	<linux/input.h>
+	<linux/joystick.h>
+	"bcm_host.h"
+	<gbm.h>
+	<xf86drm.h>
+	<xf86drmMode.h>
+	"EGL/egl.h"
+	"EGL/eglext.h"
+	"GLFW/glfw3.h"
+	<sys/time.h>
+	<emscripten/emscripten.h>
+	<emscripten/html5.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\config.h
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\utils.h
+	<stdio.h>
+	<android/asset_manager.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\rlgl.h
+	<stdbool.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	"external/glad.h"
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glad.h
+	<winapifamily.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\raymath.h
+	<math.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\rgestures.h
+	<stdbool.h>
+	<sys/time.h>
+	<time.h>
+	<math.h>
+	<mach/clock.h>
+	<mach/mach.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\rcamera.h
+	<math.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\msf_gif.h
+	"msf_gif.h"
+	<stdint.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<intrin.h>
+	<emmintrin.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\sinfl.h
+	<string.h>
+	<assert.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\sdefl.h
+	<assert.h>
+	<string.h>
+	<limits.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\dirent.h
+	<io.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\include\glfw\glfw3native.h
+	<ApplicationServices/ApplicationServices.h>
+	<X11/Xlib.h>
+	<X11/extensions/Xrandr.h>
+	<wayland-client.h>
+	<GL/glx.h>
+	<EGL/egl.h>
+	<GL/osmesa.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\include\android_native_app_glue.h
+	<poll.h>
+	<pthread.h>
+	<sched.h>
+	<android/configuration.h>
+	<android/looper.h>
+	<android/native_activity.h>
+
+1660005332 source:c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\rglfw.c
+	"external/glfw/src/context.c"
+	"external/glfw/src/init.c"
+	"external/glfw/src/input.c"
+	"external/glfw/src/monitor.c"
+	"external/glfw/src/vulkan.c"
+	"external/glfw/src/window.c"
+	"external/glfw/src/win32_init.c"
+	"external/glfw/src/win32_joystick.c"
+	"external/glfw/src/win32_monitor.c"
+	"external/glfw/src/win32_time.c"
+	"external/glfw/src/win32_thread.c"
+	"external/glfw/src/win32_window.c"
+	"external/glfw/src/wgl_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/wl_init.c"
+	"external/glfw/src/wl_monitor.c"
+	"external/glfw/src/wl_window.c"
+	"external/glfw/src/wayland-pointer-constraints-unstable-v1-client-protocol.c"
+	"external/glfw/src/wayland-relative-pointer-unstable-v1-client-protocol.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/linux_joystick.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/null_joystick.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/cocoa_init.m"
+	"external/glfw/src/cocoa_joystick.m"
+	"external/glfw/src/cocoa_monitor.m"
+	"external/glfw/src/cocoa_window.m"
+	"external/glfw/src/cocoa_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/nsgl_context.m"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\context.c
+	"internal.h"
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\internal.h
+	"glfw_config.h"
+	"../include/GLFW/glfw3.h"
+	"cocoa_platform.h"
+	"win32_platform.h"
+	"x11_platform.h"
+	"wl_platform.h"
+	"null_platform.h"
+	"egl_context.h"
+	"osmesa_context.h"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_platform.h
+	<stdint.h>
+	<dlfcn.h>
+	<Carbon/Carbon.h>
+	"posix_thread.h"
+	"cocoa_joystick.h"
+	"nsgl_context.h"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\posix_thread.h
+	<pthread.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_joystick.h
+	<IOKit/IOKitLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/hid/IOHIDKeys.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\nsgl_context.h
+	<stdatomic.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_platform.h
+	<wctype.h>
+	<windows.h>
+	<dinput.h>
+	<xinput.h>
+	<dbt.h>
+	<dwmapi.h>
+	"win32_joystick.h"
+	"wgl_context.h"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\deps\mingw\dinput.h
+	<objbase.h>
+	<_mingw_dxhelper.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\deps\mingw\_mingw_dxhelper.h
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\deps\mingw\xinput.h
+	<windef.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_joystick.h
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\wgl_context.h
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\x11_platform.h
+	<unistd.h>
+	<signal.h>
+	<stdint.h>
+	<dlfcn.h>
+	<X11/Xlib.h>
+	<X11/keysym.h>
+	<X11/Xatom.h>
+	<X11/Xresource.h>
+	<X11/Xcursor/Xcursor.h>
+	<X11/extensions/Xrandr.h>
+	<X11/XKBlib.h>
+	<X11/extensions/Xinerama.h>
+	<X11/extensions/XInput2.h>
+	<X11/extensions/shape.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"xkb_unicode.h"
+	"glx_context.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\posix_time.h
+	<stdint.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\xkb_unicode.h
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\glx_context.h
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\linux_joystick.h
+	<linux/input.h>
+	<linux/limits.h>
+	<regex.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\null_joystick.h
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\wl_platform.h
+	<wayland-client.h>
+	<xkbcommon/xkbcommon.h>
+	<xkbcommon/xkbcommon-compose.h>
+	<dlfcn.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+	"xkb_unicode.h"
+	"wayland-xdg-shell-client-protocol.h"
+	"wayland-xdg-decoration-client-protocol.h"
+	"wayland-viewporter-client-protocol.h"
+	"wayland-relative-pointer-unstable-v1-client-protocol.h"
+	"wayland-pointer-constraints-unstable-v1-client-protocol.h"
+	"wayland-idle-inhibit-unstable-v1-client-protocol.h"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\null_platform.h
+	<dlfcn.h>
+	"posix_time.h"
+	"posix_thread.h"
+	"null_joystick.h"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\egl_context.h
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\osmesa_context.h
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\init.c
+	"internal.h"
+	"mappings.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<assert.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\mappings.h
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\input.c
+	"internal.h"
+	<assert.h>
+	<float.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\monitor.c
+	"internal.h"
+	<assert.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\vulkan.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\window.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+	<float.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_init.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_joystick.c
+	"internal.h"
+	<stdio.h>
+	<math.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_monitor.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<malloc.h>
+	<wchar.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_time.c
+	"internal.h"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_thread.c
+	"internal.h"
+	<assert.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_window.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<windowsx.h>
+	<shellapi.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\wgl_context.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+	<assert.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\egl_context.c
+	"internal.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\osmesa_context.c
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"internal.h"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\wl_init.c
+	"internal.h"
+	<assert.h>
+	<errno.h>
+	<limits.h>
+	<linux/input.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<unistd.h>
+	<time.h>
+	<wayland-client.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\wl_monitor.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\wl_window.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<poll.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\x11_init.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<locale.h>
+	<unistd.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\x11_monitor.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\x11_window.c
+	"internal.h"
+	<X11/cursorfont.h>
+	<X11/Xmd.h>
+	<sys/select.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<errno.h>
+	<assert.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\glx_context.c
+	"internal.h"
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\linux_joystick.c
+	"internal.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/inotify.h>
+	<fcntl.h>
+	<errno.h>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\posix_thread.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\posix_time.c
+	"internal.h"
+	<unistd.h>
+	<sys/time.h>
+	<time.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\xkb_unicode.c
+	"internal.h"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\null_joystick.c
+	"internal.h"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_init.m
+	"internal.h"
+	<sys/param.h>
+	<crt_externs.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_joystick.m
+	"internal.h"
+	<unistd.h>
+	<ctype.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_error.h>
+	<CoreFoundation/CoreFoundation.h>
+	<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_monitor.m
+	"internal.h"
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+	<IOKit/graphics/IOGraphicsLib.h>
+	<ApplicationServices/ApplicationServices.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_window.m
+	"internal.h"
+	<float.h>
+	<string.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_time.c
+	"internal.h"
+	<mach/mach_time.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\glfw\src\nsgl_context.m
+	"internal.h"
+	<unistd.h>
+	<math.h>
+
+1660005332 source:c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\rshapes.c
+	"raylib.h"
+	"config.h"
+	"rlgl.h"
+	<math.h>
+	<float.h>
+
+1660005332 source:c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\rtext.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	"external/stb_rect_pack.h"
+	"external/stb_truetype.h"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\stb_rect_pack.h
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1660005332 source:c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\rtextures.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	"external/stb_image.h"
+	"external/stb_image_write.h"
+	"external/stb_image_resize.h"
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1660005332 c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\external\stb_image_resize.h
+	"stb_image_resize.h"
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1660005332 source:c:\users\55799\desktop\camila\xuxa-6\xuxa\src\raylib\utils.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<errno.h>
+	<android/log.h>
+	<android/asset_manager.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1660005332 source:c:\users\55799\desktop\camila\xuxa-6\xuxa\src\tinycthread\tinycthread.c
+	"tinycthread.h"
+	<stdlib.h>
+	<signal.h>
+	<sched.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<process.h>
+	<sys/timeb.h>
+
+1665373010 source:c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\main.cpp
+	"raylib.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\rcore.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	"raymath.h"
+	"rgestures.h"
+	"rcamera.h"
+	"external/msf_gif.h"
+	"external/sinfl.h"
+	"external/sdefl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<sys/stat.h>
+	"external/dirent.h"
+	<dirent.h>
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	"GLFW/glfw3.h"
+	"GLFW/glfw3native.h"
+	<sys/time.h>
+	"GLFW/glfw3native.h"
+	<unistd.h>
+	"GLFW/glfw3native.h"
+	<android/window.h>
+	<android_native_app_glue.h>
+	<EGL/egl.h>
+	<fcntl.h>
+	<unistd.h>
+	<termios.h>
+	<pthread.h>
+	<dirent.h>
+	<sys/ioctl.h>
+	<linux/kd.h>
+	<linux/input.h>
+	<linux/joystick.h>
+	"bcm_host.h"
+	<gbm.h>
+	<xf86drm.h>
+	<xf86drmMode.h>
+	"EGL/egl.h"
+	"EGL/eglext.h"
+	"GLFW/glfw3.h"
+	<sys/time.h>
+	<emscripten/emscripten.h>
+	<emscripten/html5.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\config.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\utils.h
+	<stdio.h>
+	<android/asset_manager.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\rlgl.h
+	<stdbool.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	"external/glad.h"
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glad.h
+	<winapifamily.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\raymath.h
+	<math.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\rgestures.h
+	<stdbool.h>
+	<sys/time.h>
+	<time.h>
+	<math.h>
+	<mach/clock.h>
+	<mach/mach.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\rcamera.h
+	<math.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\msf_gif.h
+	"msf_gif.h"
+	<stdint.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<intrin.h>
+	<emmintrin.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\sinfl.h
+	<string.h>
+	<assert.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\sdefl.h
+	<assert.h>
+	<string.h>
+	<limits.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\dirent.h
+	<io.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\include\glfw\glfw3native.h
+	<ApplicationServices/ApplicationServices.h>
+	<X11/Xlib.h>
+	<X11/extensions/Xrandr.h>
+	<wayland-client.h>
+	<GL/glx.h>
+	<EGL/egl.h>
+	<GL/osmesa.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\rglfw.c
+	"external/glfw/src/context.c"
+	"external/glfw/src/init.c"
+	"external/glfw/src/input.c"
+	"external/glfw/src/monitor.c"
+	"external/glfw/src/vulkan.c"
+	"external/glfw/src/window.c"
+	"external/glfw/src/win32_init.c"
+	"external/glfw/src/win32_joystick.c"
+	"external/glfw/src/win32_monitor.c"
+	"external/glfw/src/win32_time.c"
+	"external/glfw/src/win32_thread.c"
+	"external/glfw/src/win32_window.c"
+	"external/glfw/src/wgl_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/wl_init.c"
+	"external/glfw/src/wl_monitor.c"
+	"external/glfw/src/wl_window.c"
+	"external/glfw/src/wayland-pointer-constraints-unstable-v1-client-protocol.c"
+	"external/glfw/src/wayland-relative-pointer-unstable-v1-client-protocol.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/linux_joystick.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/null_joystick.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/cocoa_init.m"
+	"external/glfw/src/cocoa_joystick.m"
+	"external/glfw/src/cocoa_monitor.m"
+	"external/glfw/src/cocoa_window.m"
+	"external/glfw/src/cocoa_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/nsgl_context.m"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\context.c
+	"internal.h"
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\internal.h
+	"glfw_config.h"
+	"../include/GLFW/glfw3.h"
+	"cocoa_platform.h"
+	"win32_platform.h"
+	"x11_platform.h"
+	"wl_platform.h"
+	"null_platform.h"
+	"egl_context.h"
+	"osmesa_context.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_platform.h
+	<stdint.h>
+	<dlfcn.h>
+	<Carbon/Carbon.h>
+	"posix_thread.h"
+	"cocoa_joystick.h"
+	"nsgl_context.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\posix_thread.h
+	<pthread.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_joystick.h
+	<IOKit/IOKitLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/hid/IOHIDKeys.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\nsgl_context.h
+	<stdatomic.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_platform.h
+	<wctype.h>
+	<windows.h>
+	<dinput.h>
+	<xinput.h>
+	<dbt.h>
+	<dwmapi.h>
+	"win32_joystick.h"
+	"wgl_context.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\deps\mingw\dinput.h
+	<objbase.h>
+	<_mingw_dxhelper.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\deps\mingw\_mingw_dxhelper.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\deps\mingw\xinput.h
+	<windef.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_joystick.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\wgl_context.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\x11_platform.h
+	<unistd.h>
+	<signal.h>
+	<stdint.h>
+	<dlfcn.h>
+	<X11/Xlib.h>
+	<X11/keysym.h>
+	<X11/Xatom.h>
+	<X11/Xresource.h>
+	<X11/Xcursor/Xcursor.h>
+	<X11/extensions/Xrandr.h>
+	<X11/XKBlib.h>
+	<X11/extensions/Xinerama.h>
+	<X11/extensions/XInput2.h>
+	<X11/extensions/shape.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"xkb_unicode.h"
+	"glx_context.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\posix_time.h
+	<stdint.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\xkb_unicode.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\glx_context.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\linux_joystick.h
+	<linux/input.h>
+	<linux/limits.h>
+	<regex.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\null_joystick.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\wl_platform.h
+	<wayland-client.h>
+	<xkbcommon/xkbcommon.h>
+	<xkbcommon/xkbcommon-compose.h>
+	<dlfcn.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+	"xkb_unicode.h"
+	"wayland-xdg-shell-client-protocol.h"
+	"wayland-xdg-decoration-client-protocol.h"
+	"wayland-viewporter-client-protocol.h"
+	"wayland-relative-pointer-unstable-v1-client-protocol.h"
+	"wayland-pointer-constraints-unstable-v1-client-protocol.h"
+	"wayland-idle-inhibit-unstable-v1-client-protocol.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\null_platform.h
+	<dlfcn.h>
+	"posix_time.h"
+	"posix_thread.h"
+	"null_joystick.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\egl_context.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\osmesa_context.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\init.c
+	"internal.h"
+	"mappings.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\mappings.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\input.c
+	"internal.h"
+	<assert.h>
+	<float.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\monitor.c
+	"internal.h"
+	<assert.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\vulkan.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\window.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+	<float.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_init.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_joystick.c
+	"internal.h"
+	<stdio.h>
+	<math.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_monitor.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<malloc.h>
+	<wchar.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_time.c
+	"internal.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_thread.c
+	"internal.h"
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\win32_window.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<windowsx.h>
+	<shellapi.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\wgl_context.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\egl_context.c
+	"internal.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\osmesa_context.c
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"internal.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\wl_init.c
+	"internal.h"
+	<assert.h>
+	<errno.h>
+	<limits.h>
+	<linux/input.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<unistd.h>
+	<time.h>
+	<wayland-client.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\wl_monitor.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\wl_window.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<poll.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\x11_init.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<locale.h>
+	<unistd.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\x11_monitor.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\x11_window.c
+	"internal.h"
+	<X11/cursorfont.h>
+	<X11/Xmd.h>
+	<sys/select.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<errno.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\glx_context.c
+	"internal.h"
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\linux_joystick.c
+	"internal.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/inotify.h>
+	<fcntl.h>
+	<errno.h>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\posix_thread.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\posix_time.c
+	"internal.h"
+	<unistd.h>
+	<sys/time.h>
+	<time.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\xkb_unicode.c
+	"internal.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\null_joystick.c
+	"internal.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_init.m
+	"internal.h"
+	<sys/param.h>
+	<crt_externs.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_joystick.m
+	"internal.h"
+	<unistd.h>
+	<ctype.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_error.h>
+	<CoreFoundation/CoreFoundation.h>
+	<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_monitor.m
+	"internal.h"
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+	<IOKit/graphics/IOGraphicsLib.h>
+	<ApplicationServices/ApplicationServices.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_window.m
+	"internal.h"
+	<float.h>
+	<string.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\cocoa_time.c
+	"internal.h"
+	<mach/mach_time.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\glfw\src\nsgl_context.m
+	"internal.h"
+	<unistd.h>
+	<math.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\rshapes.c
+	"raylib.h"
+	"config.h"
+	"rlgl.h"
+	<math.h>
+	<float.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\rtext.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	"external/stb_rect_pack.h"
+	"external/stb_truetype.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\stb_rect_pack.h
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\rtextures.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	"external/stb_image.h"
+	"external/stb_image_write.h"
+	"external/stb_image_resize.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\external\stb_image_resize.h
+	"stb_image_resize.h"
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\raylib\utils.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<errno.h>
+	<android/log.h>
+	<android/asset_manager.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\tinycthread\tinycthread.c
+	"tinycthread.h"
+	<stdlib.h>
+	<signal.h>
+	<sched.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<process.h>
+	<sys/timeb.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\projeto - xuxa\xuxa-6\xuxa-6\xuxa\src\tinycthread\tinycthread.h
+	<time.h>
+	<pthread.h>
+	<windows.h>
+
+1665375056 source:c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\main.cpp
+	"raylib.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\rcore.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	"raymath.h"
+	"rgestures.h"
+	"rcamera.h"
+	"external/msf_gif.h"
+	"external/sinfl.h"
+	"external/sdefl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<sys/stat.h>
+	"external/dirent.h"
+	<dirent.h>
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	"GLFW/glfw3.h"
+	"GLFW/glfw3native.h"
+	<sys/time.h>
+	"GLFW/glfw3native.h"
+	<unistd.h>
+	"GLFW/glfw3native.h"
+	<android/window.h>
+	<android_native_app_glue.h>
+	<EGL/egl.h>
+	<fcntl.h>
+	<unistd.h>
+	<termios.h>
+	<pthread.h>
+	<dirent.h>
+	<sys/ioctl.h>
+	<linux/kd.h>
+	<linux/input.h>
+	<linux/joystick.h>
+	"bcm_host.h"
+	<gbm.h>
+	<xf86drm.h>
+	<xf86drmMode.h>
+	"EGL/egl.h"
+	"EGL/eglext.h"
+	"GLFW/glfw3.h"
+	<sys/time.h>
+	<emscripten/emscripten.h>
+	<emscripten/html5.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\config.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\utils.h
+	<stdio.h>
+	<android/asset_manager.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\rlgl.h
+	<stdbool.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	"external/glad.h"
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glad.h
+	<winapifamily.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\raymath.h
+	<math.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\rgestures.h
+	<stdbool.h>
+	<sys/time.h>
+	<time.h>
+	<math.h>
+	<mach/clock.h>
+	<mach/mach.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\rcamera.h
+	<math.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\msf_gif.h
+	"msf_gif.h"
+	<stdint.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<intrin.h>
+	<emmintrin.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\sinfl.h
+	<string.h>
+	<assert.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\sdefl.h
+	<assert.h>
+	<string.h>
+	<limits.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\dirent.h
+	<io.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\include\glfw\glfw3native.h
+	<ApplicationServices/ApplicationServices.h>
+	<X11/Xlib.h>
+	<X11/extensions/Xrandr.h>
+	<wayland-client.h>
+	<GL/glx.h>
+	<EGL/egl.h>
+	<GL/osmesa.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\rglfw.c
+	"external/glfw/src/context.c"
+	"external/glfw/src/init.c"
+	"external/glfw/src/input.c"
+	"external/glfw/src/monitor.c"
+	"external/glfw/src/vulkan.c"
+	"external/glfw/src/window.c"
+	"external/glfw/src/win32_init.c"
+	"external/glfw/src/win32_joystick.c"
+	"external/glfw/src/win32_monitor.c"
+	"external/glfw/src/win32_time.c"
+	"external/glfw/src/win32_thread.c"
+	"external/glfw/src/win32_window.c"
+	"external/glfw/src/wgl_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/wl_init.c"
+	"external/glfw/src/wl_monitor.c"
+	"external/glfw/src/wl_window.c"
+	"external/glfw/src/wayland-pointer-constraints-unstable-v1-client-protocol.c"
+	"external/glfw/src/wayland-relative-pointer-unstable-v1-client-protocol.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/linux_joystick.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/null_joystick.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/cocoa_init.m"
+	"external/glfw/src/cocoa_joystick.m"
+	"external/glfw/src/cocoa_monitor.m"
+	"external/glfw/src/cocoa_window.m"
+	"external/glfw/src/cocoa_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/nsgl_context.m"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\context.c
+	"internal.h"
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\internal.h
+	"glfw_config.h"
+	"../include/GLFW/glfw3.h"
+	"cocoa_platform.h"
+	"win32_platform.h"
+	"x11_platform.h"
+	"wl_platform.h"
+	"null_platform.h"
+	"egl_context.h"
+	"osmesa_context.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\cocoa_platform.h
+	<stdint.h>
+	<dlfcn.h>
+	<Carbon/Carbon.h>
+	"posix_thread.h"
+	"cocoa_joystick.h"
+	"nsgl_context.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\posix_thread.h
+	<pthread.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\cocoa_joystick.h
+	<IOKit/IOKitLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/hid/IOHIDKeys.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\nsgl_context.h
+	<stdatomic.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\win32_platform.h
+	<wctype.h>
+	<windows.h>
+	<dinput.h>
+	<xinput.h>
+	<dbt.h>
+	<dwmapi.h>
+	"win32_joystick.h"
+	"wgl_context.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\deps\mingw\dinput.h
+	<objbase.h>
+	<_mingw_dxhelper.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\deps\mingw\_mingw_dxhelper.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\deps\mingw\xinput.h
+	<windef.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\win32_joystick.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\wgl_context.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\x11_platform.h
+	<unistd.h>
+	<signal.h>
+	<stdint.h>
+	<dlfcn.h>
+	<X11/Xlib.h>
+	<X11/keysym.h>
+	<X11/Xatom.h>
+	<X11/Xresource.h>
+	<X11/Xcursor/Xcursor.h>
+	<X11/extensions/Xrandr.h>
+	<X11/XKBlib.h>
+	<X11/extensions/Xinerama.h>
+	<X11/extensions/XInput2.h>
+	<X11/extensions/shape.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"xkb_unicode.h"
+	"glx_context.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\posix_time.h
+	<stdint.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\xkb_unicode.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\glx_context.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\linux_joystick.h
+	<linux/input.h>
+	<linux/limits.h>
+	<regex.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\null_joystick.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\wl_platform.h
+	<wayland-client.h>
+	<xkbcommon/xkbcommon.h>
+	<xkbcommon/xkbcommon-compose.h>
+	<dlfcn.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+	"xkb_unicode.h"
+	"wayland-xdg-shell-client-protocol.h"
+	"wayland-xdg-decoration-client-protocol.h"
+	"wayland-viewporter-client-protocol.h"
+	"wayland-relative-pointer-unstable-v1-client-protocol.h"
+	"wayland-pointer-constraints-unstable-v1-client-protocol.h"
+	"wayland-idle-inhibit-unstable-v1-client-protocol.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\null_platform.h
+	<dlfcn.h>
+	"posix_time.h"
+	"posix_thread.h"
+	"null_joystick.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\egl_context.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\osmesa_context.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\init.c
+	"internal.h"
+	"mappings.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\mappings.h
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\input.c
+	"internal.h"
+	<assert.h>
+	<float.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\monitor.c
+	"internal.h"
+	<assert.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\vulkan.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\window.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+	<float.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\win32_init.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\win32_joystick.c
+	"internal.h"
+	<stdio.h>
+	<math.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\win32_monitor.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<malloc.h>
+	<wchar.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\win32_time.c
+	"internal.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\win32_thread.c
+	"internal.h"
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\win32_window.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<windowsx.h>
+	<shellapi.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\wgl_context.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\egl_context.c
+	"internal.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\osmesa_context.c
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"internal.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\wl_init.c
+	"internal.h"
+	<assert.h>
+	<errno.h>
+	<limits.h>
+	<linux/input.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<unistd.h>
+	<time.h>
+	<wayland-client.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\wl_monitor.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\wl_window.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<poll.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\x11_init.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<locale.h>
+	<unistd.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\x11_monitor.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\x11_window.c
+	"internal.h"
+	<X11/cursorfont.h>
+	<X11/Xmd.h>
+	<sys/select.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<errno.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\glx_context.c
+	"internal.h"
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\linux_joystick.c
+	"internal.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/inotify.h>
+	<fcntl.h>
+	<errno.h>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\posix_thread.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\posix_time.c
+	"internal.h"
+	<unistd.h>
+	<sys/time.h>
+	<time.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\xkb_unicode.c
+	"internal.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\null_joystick.c
+	"internal.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\cocoa_init.m
+	"internal.h"
+	<sys/param.h>
+	<crt_externs.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\cocoa_joystick.m
+	"internal.h"
+	<unistd.h>
+	<ctype.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_error.h>
+	<CoreFoundation/CoreFoundation.h>
+	<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\cocoa_monitor.m
+	"internal.h"
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+	<IOKit/graphics/IOGraphicsLib.h>
+	<ApplicationServices/ApplicationServices.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\cocoa_window.m
+	"internal.h"
+	<float.h>
+	<string.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\cocoa_time.c
+	"internal.h"
+	<mach/mach_time.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\glfw\src\nsgl_context.m
+	"internal.h"
+	<unistd.h>
+	<math.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\rshapes.c
+	"raylib.h"
+	"config.h"
+	"rlgl.h"
+	<math.h>
+	<float.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\rtext.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	"external/stb_rect_pack.h"
+	"external/stb_truetype.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\stb_rect_pack.h
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\rtextures.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	"external/stb_image.h"
+	"external/stb_image_write.h"
+	"external/stb_image_resize.h"
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1660005332 c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\external\stb_image_resize.h
+	"stb_image_resize.h"
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1660005332 source:c:\users\camil\onedrive\햞ea de trabalho\camila\dora\src\raylib\utils.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<errno.h>
+	<android/log.h>
+	<android/asset_manager.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1660005332 source:c:\users\camil\desktop\dora\dora\src\raylib\rcore.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	"raymath.h"
+	"rgestures.h"
+	"rcamera.h"
+	"external/msf_gif.h"
+	"external/sinfl.h"
+	"external/sdefl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<sys/stat.h>
+	"external/dirent.h"
+	<dirent.h>
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	"GLFW/glfw3.h"
+	"GLFW/glfw3native.h"
+	<sys/time.h>
+	"GLFW/glfw3native.h"
+	<unistd.h>
+	"GLFW/glfw3native.h"
+	<android/window.h>
+	<android_native_app_glue.h>
+	<EGL/egl.h>
+	<fcntl.h>
+	<unistd.h>
+	<termios.h>
+	<pthread.h>
+	<dirent.h>
+	<sys/ioctl.h>
+	<linux/kd.h>
+	<linux/input.h>
+	<linux/joystick.h>
+	"bcm_host.h"
+	<gbm.h>
+	<xf86drm.h>
+	<xf86drmMode.h>
+	"EGL/egl.h"
+	"EGL/eglext.h"
+	"GLFW/glfw3.h"
+	<sys/time.h>
+	<emscripten/emscripten.h>
+	<emscripten/html5.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\config.h
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\utils.h
+	<stdio.h>
+	<android/asset_manager.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\rlgl.h
+	<stdbool.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	"external/glad.h"
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glad.h
+	<winapifamily.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\raymath.h
+	<math.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\rgestures.h
+	<stdbool.h>
+	<sys/time.h>
+	<time.h>
+	<math.h>
+	<mach/clock.h>
+	<mach/mach.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\rcamera.h
+	<math.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\msf_gif.h
+	"msf_gif.h"
+	<stdint.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<intrin.h>
+	<emmintrin.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\sinfl.h
+	<string.h>
+	<assert.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\sdefl.h
+	<assert.h>
+	<string.h>
+	<limits.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\dirent.h
+	<io.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\include\glfw\glfw3native.h
+	<ApplicationServices/ApplicationServices.h>
+	<X11/Xlib.h>
+	<X11/extensions/Xrandr.h>
+	<wayland-client.h>
+	<GL/glx.h>
+	<EGL/egl.h>
+	<GL/osmesa.h>
+
+1660005332 source:c:\users\camil\desktop\dora\dora\src\raylib\rglfw.c
+	"external/glfw/src/context.c"
+	"external/glfw/src/init.c"
+	"external/glfw/src/input.c"
+	"external/glfw/src/monitor.c"
+	"external/glfw/src/vulkan.c"
+	"external/glfw/src/window.c"
+	"external/glfw/src/win32_init.c"
+	"external/glfw/src/win32_joystick.c"
+	"external/glfw/src/win32_monitor.c"
+	"external/glfw/src/win32_time.c"
+	"external/glfw/src/win32_thread.c"
+	"external/glfw/src/win32_window.c"
+	"external/glfw/src/wgl_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/wl_init.c"
+	"external/glfw/src/wl_monitor.c"
+	"external/glfw/src/wl_window.c"
+	"external/glfw/src/wayland-pointer-constraints-unstable-v1-client-protocol.c"
+	"external/glfw/src/wayland-relative-pointer-unstable-v1-client-protocol.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/linux_joystick.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/null_joystick.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/cocoa_init.m"
+	"external/glfw/src/cocoa_joystick.m"
+	"external/glfw/src/cocoa_monitor.m"
+	"external/glfw/src/cocoa_window.m"
+	"external/glfw/src/cocoa_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/nsgl_context.m"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\context.c
+	"internal.h"
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\internal.h
+	"glfw_config.h"
+	"../include/GLFW/glfw3.h"
+	"cocoa_platform.h"
+	"win32_platform.h"
+	"x11_platform.h"
+	"wl_platform.h"
+	"null_platform.h"
+	"egl_context.h"
+	"osmesa_context.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\cocoa_platform.h
+	<stdint.h>
+	<dlfcn.h>
+	<Carbon/Carbon.h>
+	"posix_thread.h"
+	"cocoa_joystick.h"
+	"nsgl_context.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\posix_thread.h
+	<pthread.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\cocoa_joystick.h
+	<IOKit/IOKitLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/hid/IOHIDKeys.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\nsgl_context.h
+	<stdatomic.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\win32_platform.h
+	<wctype.h>
+	<windows.h>
+	<dinput.h>
+	<xinput.h>
+	<dbt.h>
+	<dwmapi.h>
+	"win32_joystick.h"
+	"wgl_context.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\deps\mingw\dinput.h
+	<objbase.h>
+	<_mingw_dxhelper.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\deps\mingw\_mingw_dxhelper.h
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\deps\mingw\xinput.h
+	<windef.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\win32_joystick.h
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\wgl_context.h
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\x11_platform.h
+	<unistd.h>
+	<signal.h>
+	<stdint.h>
+	<dlfcn.h>
+	<X11/Xlib.h>
+	<X11/keysym.h>
+	<X11/Xatom.h>
+	<X11/Xresource.h>
+	<X11/Xcursor/Xcursor.h>
+	<X11/extensions/Xrandr.h>
+	<X11/XKBlib.h>
+	<X11/extensions/Xinerama.h>
+	<X11/extensions/XInput2.h>
+	<X11/extensions/shape.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"xkb_unicode.h"
+	"glx_context.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\posix_time.h
+	<stdint.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\xkb_unicode.h
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\glx_context.h
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\linux_joystick.h
+	<linux/input.h>
+	<linux/limits.h>
+	<regex.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\null_joystick.h
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\wl_platform.h
+	<wayland-client.h>
+	<xkbcommon/xkbcommon.h>
+	<xkbcommon/xkbcommon-compose.h>
+	<dlfcn.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+	"xkb_unicode.h"
+	"wayland-xdg-shell-client-protocol.h"
+	"wayland-xdg-decoration-client-protocol.h"
+	"wayland-viewporter-client-protocol.h"
+	"wayland-relative-pointer-unstable-v1-client-protocol.h"
+	"wayland-pointer-constraints-unstable-v1-client-protocol.h"
+	"wayland-idle-inhibit-unstable-v1-client-protocol.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\null_platform.h
+	<dlfcn.h>
+	"posix_time.h"
+	"posix_thread.h"
+	"null_joystick.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\egl_context.h
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\osmesa_context.h
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\init.c
+	"internal.h"
+	"mappings.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<assert.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\mappings.h
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\input.c
+	"internal.h"
+	<assert.h>
+	<float.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\monitor.c
+	"internal.h"
+	<assert.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\vulkan.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\window.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+	<float.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\win32_init.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\win32_joystick.c
+	"internal.h"
+	<stdio.h>
+	<math.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\win32_monitor.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<malloc.h>
+	<wchar.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\win32_time.c
+	"internal.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\win32_thread.c
+	"internal.h"
+	<assert.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\win32_window.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<windowsx.h>
+	<shellapi.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\wgl_context.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+	<assert.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\egl_context.c
+	"internal.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\osmesa_context.c
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"internal.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\wl_init.c
+	"internal.h"
+	<assert.h>
+	<errno.h>
+	<limits.h>
+	<linux/input.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<unistd.h>
+	<time.h>
+	<wayland-client.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\wl_monitor.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\wl_window.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<poll.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\x11_init.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<locale.h>
+	<unistd.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\x11_monitor.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\x11_window.c
+	"internal.h"
+	<X11/cursorfont.h>
+	<X11/Xmd.h>
+	<sys/select.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<errno.h>
+	<assert.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\glx_context.c
+	"internal.h"
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\linux_joystick.c
+	"internal.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/inotify.h>
+	<fcntl.h>
+	<errno.h>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\posix_thread.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\posix_time.c
+	"internal.h"
+	<unistd.h>
+	<sys/time.h>
+	<time.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\xkb_unicode.c
+	"internal.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\null_joystick.c
+	"internal.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\cocoa_init.m
+	"internal.h"
+	<sys/param.h>
+	<crt_externs.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\cocoa_joystick.m
+	"internal.h"
+	<unistd.h>
+	<ctype.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_error.h>
+	<CoreFoundation/CoreFoundation.h>
+	<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\cocoa_monitor.m
+	"internal.h"
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+	<IOKit/graphics/IOGraphicsLib.h>
+	<ApplicationServices/ApplicationServices.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\cocoa_window.m
+	"internal.h"
+	<float.h>
+	<string.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\cocoa_time.c
+	"internal.h"
+	<mach/mach_time.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\glfw\src\nsgl_context.m
+	"internal.h"
+	<unistd.h>
+	<math.h>
+
+1660005332 source:c:\users\camil\desktop\dora\dora\src\raylib\rshapes.c
+	"raylib.h"
+	"config.h"
+	"rlgl.h"
+	<math.h>
+	<float.h>
+
+1660005332 source:c:\users\camil\desktop\dora\dora\src\raylib\rtext.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	"external/stb_rect_pack.h"
+	"external/stb_truetype.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\stb_rect_pack.h
+	<stdlib.h>
+	<assert.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1660005332 source:c:\users\camil\desktop\dora\dora\src\raylib\rtextures.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	"external/stb_image.h"
+	"external/stb_image_write.h"
+	"external/stb_image_resize.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\stb_image_resize.h
+	"stb_image_resize.h"
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1660005332 source:c:\users\camil\desktop\dora\dora\src\raylib\utils.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<errno.h>
+	<android/log.h>
+	<android/asset_manager.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1667679238 source:c:\users\camil\desktop\dora\dora\src\main.cpp
+	"raylib.h"
+	<iostream>
+
+1666980687 c:\users\camil\desktop\dora\dora\include\menu.hpp
+
+1660005332 source:c:\users\camil\desktop\dora\dora\src\raylib\raudio.c
+	"raudio.h"
+	<stdarg.h>
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<windows.h>
+	<objbase.h>
+	<mmreg.h>
+	<mmsystem.h>
+	"propidl.h"
+	"external/miniaudio.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"external/stb_vorbis.h"
+	"external/jar_xm.h"
+	"external/jar_mod.h"
+	"external/dr_wav.h"
+	"external/dr_mp3.h"
+	"external/dr_flac.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\raudio.h
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\miniaudio.h
+	"miniaudio.h"
+	"miniaudio.h"
+	"extras/stb_vorbis.c"
+	"miniaudio.h"
+	"extras/stb_vorbis.c"
+	"extras/speex_resampler/ma_speex_resampler.h"
+	"extras/speex_resampler/ma_speex_resampler.h"
+	<pthread.h>
+	<stddef.h>
+	<stdarg.h>
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<sched.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<emscripten/emscripten.h>
+	<stdint.h>
+	<immintrin.h>
+	<immintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<errno.h>
+	<stdint.h>
+	<intrin.h>
+	<objbase.h>
+	<mmreg.h>
+	<mmsystem.h>
+	<mach/mach_time.h>
+	<sys/types.h>
+	<unistd.h>
+	<dlfcn.h>
+	<audioclient.h>
+	<mmdeviceapi.h>
+	<mmdeviceapi.h>
+	<poll.h>
+	<sys/eventfd.h>
+	<alsa/asoundlib.h>
+	<errno.h>
+	<pulse/pulseaudio.h>
+	<jack/jack.h>
+	<TargetConditionals.h>
+	<CoreAudio/CoreAudio.h>
+	<AVFoundation/AVFoundation.h>
+	<AudioToolbox/AudioToolbox.h>
+	<fcntl.h>
+	<sys/audioio.h>
+	<sys/soundcard.h>
+	<fcntl.h>
+	<poll.h>
+	<errno.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/ioctl.h>
+	<sys/audioio.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/soundcard.h>
+	<SLES/OpenSLES.h>
+	<SLES/OpenSLES_Android.h>
+	<emscripten/emscripten.h>
+	<stddef.h>
+	<stddef.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<errno.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<math.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\stb_vorbis.h
+	<stdio.h>
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+	<alloca.h>
+	<limits.h>
+	<crtdbg.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\jar_xm.h
+	<stdint.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	"raylib.h"
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\jar_mod.h
+	<stdio.h>
+	<stdlib.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\dr_wav.h
+	"dr_wav.h"
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<errno.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\dr_mp3.h
+	"dr_mp3.h"
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<math.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+
+1660005332 c:\users\camil\desktop\dora\dora\src\raylib\external\dr_flac.h
+	"dr_flac.h"
+	<stddef.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+
+1667525229 c:\users\camil\desktop\dora\dora\src\menuheader.h
+
+1660005332 source:e:\dora\src\raylib\raudio.c
+	"raudio.h"
+	<stdarg.h>
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<windows.h>
+	<objbase.h>
+	<mmreg.h>
+	<mmsystem.h>
+	"propidl.h"
+	"external/miniaudio.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"external/stb_vorbis.h"
+	"external/jar_xm.h"
+	"external/jar_mod.h"
+	"external/dr_wav.h"
+	"external/dr_mp3.h"
+	"external/dr_flac.h"
+
+1660005332 e:\dora\src\raylib\raudio.h
+
+1660005332 e:\dora\src\raylib\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1660005332 e:\dora\src\raylib\config.h
+
+1660005332 e:\dora\src\raylib\utils.h
+	<stdio.h>
+	<android/asset_manager.h>
+
+1660005332 e:\dora\src\raylib\external\miniaudio.h
+	"miniaudio.h"
+	"miniaudio.h"
+	"extras/stb_vorbis.c"
+	"miniaudio.h"
+	"extras/stb_vorbis.c"
+	"extras/speex_resampler/ma_speex_resampler.h"
+	"extras/speex_resampler/ma_speex_resampler.h"
+	<pthread.h>
+	<stddef.h>
+	<stdarg.h>
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdarg.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<sched.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<emscripten/emscripten.h>
+	<stdint.h>
+	<immintrin.h>
+	<immintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<errno.h>
+	<stdint.h>
+	<intrin.h>
+	<objbase.h>
+	<mmreg.h>
+	<mmsystem.h>
+	<mach/mach_time.h>
+	<sys/types.h>
+	<unistd.h>
+	<dlfcn.h>
+	<audioclient.h>
+	<mmdeviceapi.h>
+	<mmdeviceapi.h>
+	<poll.h>
+	<sys/eventfd.h>
+	<alsa/asoundlib.h>
+	<errno.h>
+	<pulse/pulseaudio.h>
+	<jack/jack.h>
+	<TargetConditionals.h>
+	<CoreAudio/CoreAudio.h>
+	<AVFoundation/AVFoundation.h>
+	<AudioToolbox/AudioToolbox.h>
+	<fcntl.h>
+	<sys/audioio.h>
+	<sys/soundcard.h>
+	<fcntl.h>
+	<poll.h>
+	<errno.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/ioctl.h>
+	<sys/audioio.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/soundcard.h>
+	<SLES/OpenSLES.h>
+	<SLES/OpenSLES_Android.h>
+	<emscripten/emscripten.h>
+	<stddef.h>
+	<stddef.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<errno.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<math.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+
+1660005332 e:\dora\src\raylib\external\stb_vorbis.h
+	<stdio.h>
+	"utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+	<alloca.h>
+	<limits.h>
+	<crtdbg.h>
+
+1660005332 e:\dora\src\raylib\external\jar_xm.h
+	<stdint.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	"raylib.h"
+
+1660005332 e:\dora\src\raylib\external\jar_mod.h
+	<stdio.h>
+	<stdlib.h>
+
+1660005332 e:\dora\src\raylib\external\dr_wav.h
+	"dr_wav.h"
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<errno.h>
+
+1660005332 e:\dora\src\raylib\external\dr_mp3.h
+	"dr_mp3.h"
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<math.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+
+1660005332 e:\dora\src\raylib\external\dr_flac.h
+	"dr_flac.h"
+	<stddef.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<errno.h>
+
+1660005332 source:e:\dora\src\raylib\rcore.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	"raymath.h"
+	"rgestures.h"
+	"rcamera.h"
+	"external/msf_gif.h"
+	"external/sinfl.h"
+	"external/sdefl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<sys/stat.h>
+	"external/dirent.h"
+	<dirent.h>
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	"GLFW/glfw3.h"
+	"GLFW/glfw3native.h"
+	<sys/time.h>
+	"GLFW/glfw3native.h"
+	<unistd.h>
+	"GLFW/glfw3native.h"
+	<android/window.h>
+	<android_native_app_glue.h>
+	<EGL/egl.h>
+	<fcntl.h>
+	<unistd.h>
+	<termios.h>
+	<pthread.h>
+	<dirent.h>
+	<sys/ioctl.h>
+	<linux/kd.h>
+	<linux/input.h>
+	<linux/joystick.h>
+	"bcm_host.h"
+	<gbm.h>
+	<xf86drm.h>
+	<xf86drmMode.h>
+	"EGL/egl.h"
+	"EGL/eglext.h"
+	"GLFW/glfw3.h"
+	<sys/time.h>
+	<emscripten/emscripten.h>
+	<emscripten/html5.h>
+
+1660005332 e:\dora\src\raylib\rlgl.h
+	<stdbool.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	"external/glad.h"
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 e:\dora\src\raylib\external\glad.h
+	<winapifamily.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 e:\dora\src\raylib\raymath.h
+	<math.h>
+
+1660005332 e:\dora\src\raylib\rgestures.h
+	<stdbool.h>
+	<sys/time.h>
+	<time.h>
+	<math.h>
+	<mach/clock.h>
+	<mach/mach.h>
+
+1660005332 e:\dora\src\raylib\rcamera.h
+	<math.h>
+
+1660005332 e:\dora\src\raylib\external\msf_gif.h
+	"msf_gif.h"
+	<stdint.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<intrin.h>
+	<emmintrin.h>
+
+1660005332 e:\dora\src\raylib\external\sinfl.h
+	<string.h>
+	<assert.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1660005332 e:\dora\src\raylib\external\sdefl.h
+	<assert.h>
+	<string.h>
+	<limits.h>
+
+1660005332 e:\dora\src\raylib\external\dirent.h
+	<io.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\include\glfw\glfw3native.h
+	<ApplicationServices/ApplicationServices.h>
+	<X11/Xlib.h>
+	<X11/extensions/Xrandr.h>
+	<wayland-client.h>
+	<GL/glx.h>
+	<EGL/egl.h>
+	<GL/osmesa.h>
+
+1660005332 source:e:\dora\src\raylib\rglfw.c
+	"external/glfw/src/context.c"
+	"external/glfw/src/init.c"
+	"external/glfw/src/input.c"
+	"external/glfw/src/monitor.c"
+	"external/glfw/src/vulkan.c"
+	"external/glfw/src/window.c"
+	"external/glfw/src/win32_init.c"
+	"external/glfw/src/win32_joystick.c"
+	"external/glfw/src/win32_monitor.c"
+	"external/glfw/src/win32_time.c"
+	"external/glfw/src/win32_thread.c"
+	"external/glfw/src/win32_window.c"
+	"external/glfw/src/wgl_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/wl_init.c"
+	"external/glfw/src/wl_monitor.c"
+	"external/glfw/src/wl_window.c"
+	"external/glfw/src/wayland-pointer-constraints-unstable-v1-client-protocol.c"
+	"external/glfw/src/wayland-relative-pointer-unstable-v1-client-protocol.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/linux_joystick.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/x11_init.c"
+	"external/glfw/src/x11_monitor.c"
+	"external/glfw/src/x11_window.c"
+	"external/glfw/src/xkb_unicode.c"
+	"external/glfw/src/null_joystick.c"
+	"external/glfw/src/posix_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/glx_context.c"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+	"external/glfw/src/cocoa_init.m"
+	"external/glfw/src/cocoa_joystick.m"
+	"external/glfw/src/cocoa_monitor.m"
+	"external/glfw/src/cocoa_window.m"
+	"external/glfw/src/cocoa_time.c"
+	"external/glfw/src/posix_thread.c"
+	"external/glfw/src/nsgl_context.m"
+	"external/glfw/src/egl_context.c"
+	"external/glfw/src/osmesa_context.c"
+
+1660005332 e:\dora\src\raylib\external\glfw\src\context.c
+	"internal.h"
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\internal.h
+	"glfw_config.h"
+	"../include/GLFW/glfw3.h"
+	"cocoa_platform.h"
+	"win32_platform.h"
+	"x11_platform.h"
+	"wl_platform.h"
+	"null_platform.h"
+	"egl_context.h"
+	"osmesa_context.h"
+
+1660005332 e:\dora\src\raylib\external\glfw\src\cocoa_platform.h
+	<stdint.h>
+	<dlfcn.h>
+	<Carbon/Carbon.h>
+	"posix_thread.h"
+	"cocoa_joystick.h"
+	"nsgl_context.h"
+
+1660005332 e:\dora\src\raylib\external\glfw\src\posix_thread.h
+	<pthread.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\cocoa_joystick.h
+	<IOKit/IOKitLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/hid/IOHIDKeys.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\nsgl_context.h
+	<stdatomic.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\win32_platform.h
+	<wctype.h>
+	<windows.h>
+	<dinput.h>
+	<xinput.h>
+	<dbt.h>
+	<dwmapi.h>
+	"win32_joystick.h"
+	"wgl_context.h"
+
+1660005332 e:\dora\src\raylib\external\glfw\deps\mingw\dinput.h
+	<objbase.h>
+	<_mingw_dxhelper.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\deps\mingw\_mingw_dxhelper.h
+
+1660005332 e:\dora\src\raylib\external\glfw\deps\mingw\xinput.h
+	<windef.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\win32_joystick.h
+
+1660005332 e:\dora\src\raylib\external\glfw\src\wgl_context.h
+
+1660005332 e:\dora\src\raylib\external\glfw\src\x11_platform.h
+	<unistd.h>
+	<signal.h>
+	<stdint.h>
+	<dlfcn.h>
+	<X11/Xlib.h>
+	<X11/keysym.h>
+	<X11/Xatom.h>
+	<X11/Xresource.h>
+	<X11/Xcursor/Xcursor.h>
+	<X11/extensions/Xrandr.h>
+	<X11/XKBlib.h>
+	<X11/extensions/Xinerama.h>
+	<X11/extensions/XInput2.h>
+	<X11/extensions/shape.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"xkb_unicode.h"
+	"glx_context.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+
+1660005332 e:\dora\src\raylib\external\glfw\src\posix_time.h
+	<stdint.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\xkb_unicode.h
+
+1660005332 e:\dora\src\raylib\external\glfw\src\glx_context.h
+
+1660005332 e:\dora\src\raylib\external\glfw\src\linux_joystick.h
+	<linux/input.h>
+	<linux/limits.h>
+	<regex.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\null_joystick.h
+
+1660005332 e:\dora\src\raylib\external\glfw\src\wl_platform.h
+	<wayland-client.h>
+	<xkbcommon/xkbcommon.h>
+	<xkbcommon/xkbcommon-compose.h>
+	<dlfcn.h>
+	"posix_thread.h"
+	"posix_time.h"
+	"linux_joystick.h"
+	"null_joystick.h"
+	"xkb_unicode.h"
+	"wayland-xdg-shell-client-protocol.h"
+	"wayland-xdg-decoration-client-protocol.h"
+	"wayland-viewporter-client-protocol.h"
+	"wayland-relative-pointer-unstable-v1-client-protocol.h"
+	"wayland-pointer-constraints-unstable-v1-client-protocol.h"
+	"wayland-idle-inhibit-unstable-v1-client-protocol.h"
+
+1660005332 e:\dora\src\raylib\external\glfw\src\null_platform.h
+	<dlfcn.h>
+	"posix_time.h"
+	"posix_thread.h"
+	"null_joystick.h"
+
+1660005332 e:\dora\src\raylib\external\glfw\src\egl_context.h
+
+1660005332 e:\dora\src\raylib\external\glfw\src\osmesa_context.h
+
+1660005332 e:\dora\src\raylib\external\glfw\src\init.c
+	"internal.h"
+	"mappings.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<assert.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\mappings.h
+
+1660005332 e:\dora\src\raylib\external\glfw\src\input.c
+	"internal.h"
+	<assert.h>
+	<float.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\monitor.c
+	"internal.h"
+	<assert.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\vulkan.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\window.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+	<stdlib.h>
+	<float.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\win32_init.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\win32_joystick.c
+	"internal.h"
+	<stdio.h>
+	<math.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\win32_monitor.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<malloc.h>
+	<wchar.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\win32_time.c
+	"internal.h"
+
+1660005332 e:\dora\src\raylib\external\glfw\src\win32_thread.c
+	"internal.h"
+	<assert.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\win32_window.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<windowsx.h>
+	<shellapi.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\wgl_context.c
+	"internal.h"
+	<stdlib.h>
+	<malloc.h>
+	<assert.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\egl_context.c
+	"internal.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\osmesa_context.c
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"internal.h"
+
+1660005332 e:\dora\src\raylib\external\glfw\src\wl_init.c
+	"internal.h"
+	<assert.h>
+	<errno.h>
+	<limits.h>
+	<linux/input.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<unistd.h>
+	<time.h>
+	<wayland-client.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\wl_monitor.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\wl_window.c
+	"internal.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/timerfd.h>
+	<poll.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\x11_init.c
+	"internal.h"
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<locale.h>
+	<unistd.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\x11_monitor.c
+	"internal.h"
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\x11_window.c
+	"internal.h"
+	<X11/cursorfont.h>
+	<X11/Xmd.h>
+	<sys/select.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<errno.h>
+	<assert.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\glx_context.c
+	"internal.h"
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\linux_joystick.c
+	"internal.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/inotify.h>
+	<fcntl.h>
+	<errno.h>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\posix_thread.c
+	"internal.h"
+	<assert.h>
+	<string.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\posix_time.c
+	"internal.h"
+	<unistd.h>
+	<sys/time.h>
+	<time.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\xkb_unicode.c
+	"internal.h"
+
+1660005332 e:\dora\src\raylib\external\glfw\src\null_joystick.c
+	"internal.h"
+
+1660005332 e:\dora\src\raylib\external\glfw\src\cocoa_init.m
+	"internal.h"
+	<sys/param.h>
+	<crt_externs.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\cocoa_joystick.m
+	"internal.h"
+	<unistd.h>
+	<ctype.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_error.h>
+	<CoreFoundation/CoreFoundation.h>
+	<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\cocoa_monitor.m
+	"internal.h"
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+	<IOKit/graphics/IOGraphicsLib.h>
+	<ApplicationServices/ApplicationServices.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\cocoa_window.m
+	"internal.h"
+	<float.h>
+	<string.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\cocoa_time.c
+	"internal.h"
+	<mach/mach_time.h>
+
+1660005332 e:\dora\src\raylib\external\glfw\src\nsgl_context.m
+	"internal.h"
+	<unistd.h>
+	<math.h>
+
+1660005332 source:e:\dora\src\raylib\rshapes.c
+	"raylib.h"
+	"config.h"
+	"rlgl.h"
+	<math.h>
+	<float.h>
+
+1660005332 source:e:\dora\src\raylib\rtext.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+	"external/stb_rect_pack.h"
+	"external/stb_truetype.h"
+
+1660005332 e:\dora\src\raylib\external\stb_rect_pack.h
+	<stdlib.h>
+	<assert.h>
+
+1660005332 e:\dora\src\raylib\external\stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1660005332 source:e:\dora\src\raylib\rtextures.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	"rlgl.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	"external/stb_image.h"
+	"external/stb_image_write.h"
+	"external/stb_image_resize.h"
+
+1660005332 e:\dora\src\raylib\external\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1660005332 e:\dora\src\raylib\external\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1660005332 e:\dora\src\raylib\external\stb_image_resize.h
+	"stb_image_resize.h"
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1660005332 source:e:\dora\src\raylib\utils.c
+	"raylib.h"
+	"config.h"
+	"utils.h"
+	<errno.h>
+	<android/log.h>
+	<android/asset_manager.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
